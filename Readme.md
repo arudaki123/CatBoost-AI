@@ -9,6 +9,8 @@ Người thực hiện:
 > 
 > Trần Đình Sang
 
+Nguồn dữ liệu được cung cấp bản quyền bởi công ty Cổ phần Tin học – Bản đồ Việt Nam (http://www.vietbando.com/).
+
 Các file code hiện nhóm em chưa clear code hoàn toàn, chưa bổ sung hết ý. Bên dưới là mô tả sơ bộ về cource code:
 
 - Preprocessing.ipynb : Tiền xử lý các dữ liệu nhiễu (các xe có ít điểm dữ liệu, góc quay, heading,...)
