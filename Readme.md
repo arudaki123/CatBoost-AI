@@ -3,9 +3,9 @@
 ## Tên đề tài : Nghiên cứu thư viện CatBoost AI, ứng dụng tìm những thông tin liên quan với nhau theo chiều không gian và thời gian.
 
 Người thực hiện:
-- Phạm Như Quyền
-- Trần Đức Thắng
-- Trần Đình Sang
+> Phạm Như Quyền
+> Trần Đức Thắng
+> Trần Đình Sang
 
 Các file code hiện nhóm em chưa clear code hoàn toàn, chưa bổ sung hết ý. Bên dưới là mô tả sơ bộ về cource code:
 
