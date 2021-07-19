@@ -4,7 +4,9 @@
 
 Người thực hiện:
 > Phạm Như Quyền
+> 
 > Trần Đức Thắng
+> 
 > Trần Đình Sang
 
 Các file code hiện nhóm em chưa clear code hoàn toàn, chưa bổ sung hết ý. Bên dưới là mô tả sơ bộ về cource code:
