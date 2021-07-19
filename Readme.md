@@ -7,8 +7,7 @@ Người thực hiện:
 - Trần Đức Thắng
 - Trần Đình Sang
 
-Các file code hiện nhóm em chưa clear code hoàn toàn, chưa bổ sung hết ý. Hiện nhóm đã dừng lại ở mức độ nghiên cứu và chưa xây 
-dựng được mô hình do giới hạn về khả năng và kiến thức không thể tiếp cận thêm. Bên dưới là mô tả sơ bộ về cource code:
+Các file code hiện nhóm em chưa clear code hoàn toàn, chưa bổ sung hết ý. Bên dưới là mô tả sơ bộ về cource code:
 
 - Preprocessing.ipynb : Tiền xử lý các dữ liệu nhiễu (các xe có ít điểm dữ liệu, góc quay, heading,...)
 
