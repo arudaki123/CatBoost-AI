@@ -1,4 +1,4 @@
-#ĐỒ ÁN TỐT NGHIỆP
+ĐỒ ÁN TỐT NGHIỆP
 
 -Các file code hiện nhóm em chưa clear code hoàn toàn, chưa bổ sung hết ý. Hiện nhóm đã dừng lại ở mức độ nghiên cứu và chưa xây 
 dựng được mô hình do giới hạn về khả năng và kiến thức không thể tiếp cận thêm. Bên dưới là mô tả sơ bộ về cource code:
